@@ -1,8 +1,8 @@
-# Decoupled modeling and cascaded heading control of a pendulum-driven spherical robot
+# Decoupled Modeling and Cascaded Control of a Two-Degrees of Freedom Pendulum-Driven Spherical Robot
 
 Simulink model accompanying the paper
 
-> *Decoupled Modeling and Cascaded Heading Control of a Pendulum-Driven Spherical Robot* (authors, venue, year — to be added)
+> *Decoupled Modeling and Cascaded Control of a Two-Degrees of Freedom Pendulum-Driven Spherical Robot* (authors, venue, year — to be added)
 
 <p align="center">
   <img src="docs/robot_schematic.png" width="480" alt="Schematic of the spherical robot">
