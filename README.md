@@ -72,5 +72,4 @@ If you use this model, please cite the paper:
 ## License
 
 MIT, see [LICENSE](LICENSE).
-# spherical_robot_model
-Simulink model of a pendulum-driven spherical robot
+
