@@ -24,7 +24,7 @@ reference (yellow arrow), together with a separate run filmed with a phone.
   <img src="docs/robot.jpg" height="300" alt="Robot with the upper half of the shell removed">
 </p>
 
-The robot (left: in the arena, right: with the upper half of the shell
+The robot (top: in the arena, bottom: with the upper half of the shell
 removed) is driven by a brushless motor on the shaft and tilted laterally by
 a servo; two IMUs on the pendulum measure the heading and the tilt. The
 position is measured by an overhead camera (Luxonis OAK 4 D Pro), and the
