@@ -8,10 +8,30 @@ Simulink model accompanying the paper
   <img src="docs/robot_schematic.png" width="480" alt="Schematic of the spherical robot">
 </p>
 
-## Video of the real robot
+## Heading control on the real robot
 
-<!-- Replace VIDEO_ID with the YouTube video ID -->
-[![Video of the experiments](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+https://github.com/user-attachments/assets/d407e424-bab2-434f-a75e-ae7b1aa5bef4
+
+Recorded run replayed at 2× speed: position from the overhead camera
+(Luxonis OAK 4 D Pro), measured heading from the IMU (red arrow) and heading
+reference (yellow arrow), together with a separate run filmed with a phone.
+
+## Experimental setup
+
+<p align="center">
+  <img src="docs/arena.jpg" height="300" alt="Experimental arena">
+  &nbsp;
+  <img src="docs/robot.jpg" height="300" alt="Robot with the upper half of the shell removed">
+</p>
+
+The robot (left: in the arena, right: with the upper half of the shell
+removed) is driven by a brushless motor on the shaft and tilted laterally by
+a servo; two IMUs on the pendulum measure the heading and the tilt. The
+position is measured by an overhead camera (Luxonis OAK 4 D Pro), and the
+controllers run on a host computer (ROS 2, 50 Hz) that communicates with the
+robot over ESP-NOW. The robot was designed and built by Hanjo Claassen at
+Delft University of Technology.
+
 
 ## Contents
 
